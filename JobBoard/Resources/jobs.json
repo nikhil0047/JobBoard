@@ -1,0 +1,153 @@
+[
+  {
+    "id": "j-001",
+    "title": "Senior iOS Engineer",
+    "company": "Vela Mobility",
+    "companyDescription": "Vela builds shared transit software used by city operators across South and Southeast Asia. Small team, lots of ownership, and a refreshingly grown-up engineering culture.",
+    "location": "Bengaluru, India · Hybrid",
+    "employmentType": "Full-time",
+    "salary": {
+      "min": 4500000,
+      "max": 6500000,
+      "currency": "INR",
+      "period": "year"
+    },
+    "description": "We're looking for an iOS engineer to take ownership of our driver and rider apps. You'll partner closely with backend and product to ship features end-to-end, mentor two junior engineers, and influence the direction of our mobile architecture.",
+    "requirements": [
+      "5+ years shipping production iOS apps in Swift",
+      "Strong grasp of SwiftUI, async/await and modern concurrency",
+      "Comfortable working without a tech lead holding your hand",
+      "Bonus: prior experience with maps or real-time data"
+    ],
+    "postedDate": "2026-05-20T09:00:00Z"
+  },
+  {
+    "id": "j-002",
+    "title": "iOS Engineer, Payments",
+    "company": "Northwind Bank",
+    "companyDescription": "Northwind is a mid-sized digital bank serving small businesses in the UK and Ireland. Engineering reports directly to the COO and ships every week.",
+    "location": "London, UK · Remote",
+    "employmentType": "Full-time",
+    "salary": {
+      "min": 75000,
+      "max": 95000,
+      "currency": "GBP",
+      "period": "year"
+    },
+    "description": "Join the payments squad to help us rebuild the card-management experience. The work spans card issuance, dispute flows, and a chunky migration from UIKit to SwiftUI on a high-traffic surface.",
+    "requirements": [
+      "3+ years iOS engineering",
+      "Comfortable reading and refactoring legacy UIKit",
+      "Care about correctness — payments code has to be right",
+      "Familiarity with feature flags and staged rollouts"
+    ],
+    "postedDate": "2026-05-28T12:30:00Z"
+  },
+  {
+    "id": "j-003",
+    "title": "Junior iOS Developer",
+    "company": "Brightseed Labs",
+    "companyDescription": "Brightseed builds learning tools for K-12 classrooms. Calm pace, strong mentorship, and meaningful work.",
+    "location": "Remote · Worldwide",
+    "employmentType": "Full-time",
+    "salary": {
+      "min": 55000,
+      "max": 70000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "description": "A great spot to start your career. You'll pair with senior engineers, ship small features on day one, and gradually take on larger pieces of the codebase.",
+    "requirements": [
+      "Some iOS / Swift experience (portfolio, internship or side project)",
+      "Curious and willing to ask questions",
+      "Comfortable receiving and acting on code review feedback"
+    ],
+    "postedDate": "2026-06-02T08:00:00Z"
+  },
+  {
+    "id": "j-004",
+    "title": "Staff iOS Engineer",
+    "company": "Atlas Health",
+    "companyDescription": "Atlas builds clinician-facing tooling used by hospitals across the US. Series C, ~120 engineers.",
+    "location": "New York, NY · On-site",
+    "employmentType": "Full-time",
+    "salary": {
+      "min": 220000,
+      "max": 280000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "description": "Set the technical direction for our iOS platform. You'll own architecture decisions, drive a multi-quarter modularization effort, and act as the senior-most iOS voice in design reviews.",
+    "requirements": [
+      "8+ years of iOS, with at least 2 in a staff-equivalent role",
+      "Track record of leading large cross-team initiatives",
+      "Strong opinions on modularization, build performance, and testing",
+      "Healthcare or other regulated-industry experience is a plus"
+    ],
+    "postedDate": "2026-05-12T16:00:00Z"
+  },
+  {
+    "id": "j-005",
+    "title": "iOS Contractor – SwiftUI Migration",
+    "company": "Harbor & Co.",
+    "companyDescription": "Boutique consultancy. We get parachuted into client codebases to unblock thorny problems.",
+    "location": "Remote · EU timezones",
+    "employmentType": "Contract",
+    "salary": {
+      "min": 70,
+      "max": 95,
+      "currency": "EUR",
+      "period": "hour"
+    },
+    "description": "6-month engagement helping a fintech client migrate three flagship screens from UIKit to SwiftUI without freezing feature work on the rest of the app.",
+    "requirements": [
+      "Senior iOS engineer, comfortable contracting",
+      "Deep SwiftUI knowledge — interop with UIKit specifically",
+      "Can produce a written migration plan, not just code",
+      "Available 30+ hours per week from July"
+    ],
+    "postedDate": "2026-06-05T11:00:00Z"
+  },
+  {
+    "id": "j-006",
+    "title": "Mobile QA Engineer (iOS)",
+    "company": "Vela Mobility",
+    "companyDescription": "Vela builds shared transit software used by city operators across South and Southeast Asia.",
+    "location": "Bengaluru, India · Hybrid",
+    "employmentType": "Full-time",
+    "salary": {
+      "min": 1800000,
+      "max": 2600000,
+      "currency": "INR",
+      "period": "year"
+    },
+    "description": "Own end-to-end quality for our iOS apps. You'll build out automated UI test coverage, partner with engineering on flaky test triage, and own release sign-off.",
+    "requirements": [
+      "3+ years of mobile QA, with iOS as the primary platform",
+      "Hands-on with XCUITest or similar",
+      "Comfortable filing high-quality bug reports and reproducible cases"
+    ],
+    "postedDate": "2026-06-01T07:30:00Z"
+  },
+  {
+    "id": "j-007",
+    "title": "iOS Engineer, Media",
+    "company": "Loudbird",
+    "companyDescription": "Loudbird is a podcast network and player used by ~3M monthly listeners.",
+    "location": "Berlin, Germany · Hybrid",
+    "employmentType": "Full-time",
+    "salary": {
+      "min": 78000,
+      "max": 98000,
+      "currency": "EUR",
+      "period": "year"
+    },
+    "description": "Help us rebuild the playback stack. You'll work close to AVFoundation, design a robust offline-first download manager, and shape how millions of episodes get from server to ear.",
+    "requirements": [
+      "4+ years iOS",
+      "Hands-on with AVFoundation, background downloads, or audio sessions",
+      "Comfortable debugging weird device-specific issues"
+    ],
+    "postedDate": "2026-05-25T09:45:00Z"
+  }
+]

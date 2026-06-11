@@ -1,0 +1,36 @@
+[
+  {
+    "id": "test-001",
+    "title": "Test iOS Engineer",
+    "company": "TestCo",
+    "companyDescription": "Test company.",
+    "location": "Remote",
+    "employmentType": "Full-time",
+    "salary": {
+      "min": 60000,
+      "max": 90000,
+      "currency": "USD",
+      "period": "year"
+    },
+    "description": "Test description.",
+    "requirements": ["Swift", "SwiftUI"],
+    "postedDate": "2026-05-01T00:00:00Z"
+  },
+  {
+    "id": "test-002",
+    "title": "Test QA Engineer",
+    "company": "TestCo",
+    "companyDescription": "Test company.",
+    "location": "Remote",
+    "employmentType": "Contract",
+    "salary": {
+      "min": 40,
+      "max": 60,
+      "currency": "USD",
+      "period": "hour"
+    },
+    "description": "Another test description.",
+    "requirements": ["XCUITest"],
+    "postedDate": "2026-05-15T00:00:00Z"
+  }
+]
